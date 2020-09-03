@@ -4,7 +4,7 @@ q-google-map is a [Quasar App Extension](https://quasar.dev/app-extensions/intro
 
 # Structure
 * [/ui](ui) - standalone npm package
-* [/app-extension](app-extension) - Quasar app extension
+* [/app-extension](app-extension) - [Quasar app extension](https://www.npmjs.com/package/quasar-app-extension-q-google-map)
 
 # Support
 
