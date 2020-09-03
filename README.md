@@ -1,4 +1,4 @@
-# q-google-map
+# [q-google-map](https://q-google-map.netlify.app)
 
 q-google-map is a [Quasar App Extension](https://quasar.dev/app-extensions/introduction) to integrate google map in Quasar project.
 
