@@ -1,0 +1,22 @@
+{
+  "name": "quasar-app-extension-q-google-map",
+  "version": "0.0.5",
+  "description": "Extension to integrate Google Map into your Quasar project!",
+  "author": "Mayur Patel<mayur091193@gmail.com>",
+  "license": "MIT",
+  "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mayur091193/q-google-map"
+  },
+  "bugs": "https://github.com/mayur091193/q-google-map/issues",
+  "homepage": "https://github.com/mayur091193/q-google-map",
+  "dependencies": {
+    "quasar-ui-q-google-map": "0.0.5"
+  },
+  "engines": {
+    "node": ">= 8.9.0",
+    "npm": ">= 5.6.0",
+    "yarn": ">= 1.6.0"
+  }
+}
